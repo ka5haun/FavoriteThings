@@ -1,2 +1,0 @@
-git add .
-git commit -m "Created a favorite.txt file and added a title"
